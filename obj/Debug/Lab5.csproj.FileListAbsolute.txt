@@ -1,0 +1,10 @@
+D:\SWENG 421Projects\Lab5\Lab5\bin\Debug\Lab5.exe.config
+D:\SWENG 421Projects\Lab5\Lab5\bin\Debug\Lab5.exe
+D:\SWENG 421Projects\Lab5\Lab5\bin\Debug\Lab5.pdb
+D:\SWENG 421Projects\Lab5\Lab5\obj\Debug\Lab5.csproj.AssemblyReference.cache
+D:\SWENG 421Projects\Lab5\Lab5\obj\Debug\Lab5.Form1.resources
+D:\SWENG 421Projects\Lab5\Lab5\obj\Debug\Lab5.Properties.Resources.resources
+D:\SWENG 421Projects\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
+D:\SWENG 421Projects\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\SWENG 421Projects\Lab5\Lab5\obj\Debug\Lab5.exe
+D:\SWENG 421Projects\Lab5\Lab5\obj\Debug\Lab5.pdb
