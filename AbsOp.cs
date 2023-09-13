@@ -8,11 +8,8 @@ namespace Lab5
 {
     public abstract class AbsOp: OperationIF
     {
-        public double CurrVal { set; get; }
+        public double CurrVal { set; get; } = 0;
 
-        public void PerformOp()
-        {
-            
-        }
+        public abstract void PerformOp();
     }
 }

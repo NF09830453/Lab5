@@ -8,3 +8,4 @@ D:\SWENG 421Projects\Lab5\Lab5\obj\Debug\Lab5.csproj.GenerateResource.cache
 D:\SWENG 421Projects\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
 D:\SWENG 421Projects\Lab5\Lab5\obj\Debug\Lab5.exe
 D:\SWENG 421Projects\Lab5\Lab5\obj\Debug\Lab5.pdb
+D:\SWENG 421Projects\Lab5\Lab5\obj\Debug\Lab5.Form2.resources

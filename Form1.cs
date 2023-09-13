@@ -31,7 +31,7 @@ namespace Lab5
         {
             string selectedModule = comboBox1.SelectedItem.ToString();
             op = fif.CreateOp(selectedModule);
-
+            op.PerformOp();
         }
 
         private void label1_Click(object sender, EventArgs e)
